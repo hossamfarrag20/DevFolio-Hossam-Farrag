@@ -191,10 +191,6 @@
 }
 
 
-.about-des li strong {
-    font-weight: 600;
-    font-size: 17.6px;
-}
 
 .skill {
     font-size: 17.6px;
@@ -216,6 +212,11 @@
     font-size: 16px;
     line-height: 24px;
     color: #4E4E4E;
+}
+
+.about-des li strong {
+    font-weight: 600;
+    font-size: 17.6px;
 }
 
 .my-list-menu {
